@@ -10,6 +10,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#kagome>kagome</a></li>
   </ol>
 </details>
 
@@ -9190,6 +9191,23 @@
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+
+## kagome
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-04-07**|**Floquet X-Ray Scattering as a Probe of Hidden Electronic Orders**|Martin Eckstein et.al.|[2604.06496](http://arxiv.org/abs/2604.06496)|null|
+|**2026-04-07**|**Visualizing the interplay of dual electronic nematicities in kagome superconductors**|Yunmei Zhang et.al.|[2604.05506](http://arxiv.org/abs/2604.05506)|null|
+|**2026-04-07**|**Cascade of Spin Liquids in a Bilayer Triangular-lattice Antiferromagnet Rb_2Co_2(SeO_3)_3**|Xiaoyu Xu et.al.|[2604.03737](http://arxiv.org/abs/2604.03737)|null|
+|**2026-04-04**|**Design A Family of 2D Nb-Based Multilayer Kagome Semimetals with High Fermi Velocity and Low Thermal Conductivity**|En-Qi Bao et.al.|[2604.03534](http://arxiv.org/abs/2604.03534)|null|
+|**2026-04-04**|**Genuine pair density wave order on the kagome lattice**|Han-Yang Liu et.al.|[2604.03531](http://arxiv.org/abs/2604.03531)|null|
+|**2026-04-03**|**Mott-Derived Local Moments and Kondo Hybridization in a d-electron Kagome lattice**|Xing Zhang et.al.|[2604.02922](http://arxiv.org/abs/2604.02922)|null|
+|**2026-04-02**|**Bond-density-wave orders induced by geometric frustration in the kagome metal CeRu3Si2**|Ryo Misawa et.al.|[2604.01691](http://arxiv.org/abs/2604.01691)|null|
+|**2026-04-01**|**Magnetoelastic instabilities in kagome antiferromagnet Mn3-xGa**|Linxuan Song et.al.|[2604.00482](http://arxiv.org/abs/2604.00482)|null|
+|**2026-03-30**|**Higgs criticality of Dirac spin liquids on depleted triangular lattices**|Andreas Feuerpfeil et.al.|[2603.28860](http://arxiv.org/abs/2603.28860)|null|
+|**2026-04-05**|**Competing interlayer charge order and quantum monopole reorganization in bilayer Kagome spin ice via quantum annealing**|Kumar Ghosh et.al.|[2603.27826](http://arxiv.org/abs/2603.27826)|null|
 
 <p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
 
