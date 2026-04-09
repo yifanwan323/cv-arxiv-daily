@@ -24,3 +24,5 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "kagome": 
         filters: ["kagome", "kagome lattice"]
+    "STM": 
+        filters: ["STM"]
