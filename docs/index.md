@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9187,6 +9187,21 @@ layout: default
 |**2026-04-01**|**Magnetoelastic instabilities in kagome antiferromagnet Mn3-xGa**|Linxuan Song et.al.|[2604.00482](http://arxiv.org/abs/2604.00482)|null|
 |**2026-03-30**|**Higgs criticality of Dirac spin liquids on depleted triangular lattices**|Andreas Feuerpfeil et.al.|[2603.28860](http://arxiv.org/abs/2603.28860)|null|
 |**2026-04-05**|**Competing interlayer charge order and quantum monopole reorganization in bilayer Kagome spin ice via quantum annealing**|Kumar Ghosh et.al.|[2603.27826](http://arxiv.org/abs/2603.27826)|null|
+
+## STM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Lightweight LLM Agent Memory with Small Language Models**|Jiaquan Zhang et.al.|[2604.07798](http://arxiv.org/abs/2604.07798)|null|
+|**2026-04-08**|**Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM**|Igor Sokolovic et.al.|[2604.07114](http://arxiv.org/abs/2604.07114)|null|
+|**2026-04-08**|**EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling**|Qingguo Meng et.al.|[2604.06782](http://arxiv.org/abs/2604.06782)|null|
+|**2026-04-08**|**True Alternating Current Scanning Tunneling Microscope (ACSTM): tunneling on insulators**|M. J. Rost et.al.|[2604.06751](http://arxiv.org/abs/2604.06751)|null|
+|**2026-04-07**|**Dynamics of a Spin-Wave Active Ring Resonator Driven by Harmonic-Null Square-Wave and Unipolar 8-bit Walsh Code Modulations**|Anirban Mukhopadhyay et.al.|[2604.04612](http://arxiv.org/abs/2604.04612)|null|
+|**2026-04-03**|**Mott-Derived Local Moments and Kondo Hybridization in a d-electron Kagome lattice**|Xing Zhang et.al.|[2604.02922](http://arxiv.org/abs/2604.02922)|null|
+|**2026-03-28**|**Magnetic-field-tunable commensurate multi-q charge orders on UTe2 (011) surface**|Yuanji Li et.al.|[2603.27211](http://arxiv.org/abs/2603.27211)|null|
+|**2026-03-27**|**On the interpretation of Hahn echo measurements in electron spin resonance scanning tunneling microscopy**|Paul Greule et.al.|[2603.26255](http://arxiv.org/abs/2603.26255)|null|
+|**2026-03-26**|**Microscopic nature of $4a_0\times4a_0$ plaquettes in stripe LDOS and $2a_0$ shift**|Ying Liang et.al.|[2603.25245](http://arxiv.org/abs/2603.25245)|null|
+|**2026-03-28**|**Enhancing Online Support Group Formation Using Topic Modeling Techniques**|Pronob Kumar Barman et.al.|[2603.24765](http://arxiv.org/abs/2603.24765)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
