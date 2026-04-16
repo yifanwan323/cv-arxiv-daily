@@ -1,4 +1,4 @@
-## Updated on 2026.04.13
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1398,7 +1398,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## SFM
 
@@ -2423,7 +2423,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -5390,7 +5390,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5942,7 +5942,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## Image Matching
 
@@ -7321,7 +7321,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## NeRF
 
@@ -9193,12 +9193,18 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## kagome
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Tunable bifurcation of magnetic anisotropy and bi-oriented antiferromagnetic order in kagome metal GdTi3Bi4**|Jianfeng Guo et.al.|[2604.14012](http://arxiv.org/abs/2604.14012)|null|
+|**2026-04-15**|**Spin-mediated hysteretic switching of unidirectional charge density waves by rotating magnetic fields**|Zichao Chen et.al.|[2604.14002](http://arxiv.org/abs/2604.14002)|null|
+|**2026-04-15**|**Anomalous Low-temperature Magnetotransport in Kagome Metal CsCr $_3$Sb$_5$ under Pressure**|Zikai Zhou et.al.|[2604.13553](http://arxiv.org/abs/2604.13553)|null|
+|**2026-04-15**|**Cs $_4$Cr$_7$Te$_{10}$ : Interwoven Reconstructed Archimedean and Kagome Lattices with a Possible Phase Transition near 130 K**|Zhen Zhao et.al.|[2604.12680](http://arxiv.org/abs/2604.12680)|null|
+|**2026-04-13**|**Quasi-linear `non-metallic' resistivity in the distorted-kagome metal CrPdAs**|Benny Lau et.al.|[2604.11630](http://arxiv.org/abs/2604.11630)|null|
+|**2026-04-13**|**Unconventional alternating out-of-plane spin polarization in the coplanar kagome antiferromagnet**|Ousmane Ly et.al.|[2604.11057](http://arxiv.org/abs/2604.11057)|null|
 |**2026-04-07**|**Floquet X-Ray Scattering as a Probe of Hidden Electronic Orders**|Martin Eckstein et.al.|[2604.06496](http://arxiv.org/abs/2604.06496)|null|
 |**2026-04-07**|**Visualizing the interplay of dual electronic nematicities in kagome superconductors**|Yunmei Zhang et.al.|[2604.05506](http://arxiv.org/abs/2604.05506)|null|
 |**2026-04-07**|**Cascade of Spin Liquids in a Bilayer Triangular-lattice Antiferromagnet Rb_2Co_2(SeO_3)_3**|Xiaoyu Xu et.al.|[2604.03737](http://arxiv.org/abs/2604.03737)|null|
@@ -9210,16 +9216,19 @@
 |**2026-03-30**|**Higgs criticality of Dirac spin liquids on depleted triangular lattices**|Andreas Feuerpfeil et.al.|[2603.28860](http://arxiv.org/abs/2603.28860)|null|
 |**2026-04-05**|**Competing interlayer charge order and quantum monopole reorganization in bilayer Kagome spin ice via quantum annealing**|Kumar Ghosh et.al.|[2603.27826](http://arxiv.org/abs/2603.27826)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 ## STM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering**|Weikang Zhang et.al.|[2604.12210](http://arxiv.org/abs/2604.12210)|null|
+|**2026-04-12**|**Interplay of disorder and interactions in quantum Hall systems: from fractional quantum Hall liquids to Wigner crystals and amorphous solids**|Ke Huang et.al.|[2604.10642](http://arxiv.org/abs/2604.10642)|null|
+|**2026-04-10**|**Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO $_2$ (110)**|Manoj Dey et.al.|[2604.09291](http://arxiv.org/abs/2604.09291)|null|
 |**2026-04-09**|**Lightweight LLM Agent Memory with Small Language Models**|Jiaquan Zhang et.al.|[2604.07798](http://arxiv.org/abs/2604.07798)|null|
 |**2026-04-08**|**Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM**|Igor Sokolovic et.al.|[2604.07114](http://arxiv.org/abs/2604.07114)|null|
 |**2026-04-08**|**EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling**|Qingguo Meng et.al.|[2604.06782](http://arxiv.org/abs/2604.06782)|null|
-|**2026-04-08**|**True Alternating Current Scanning Tunneling Microscope (ACSTM): tunneling on insulators**|M. J. Rost et.al.|[2604.06751](http://arxiv.org/abs/2604.06751)|null|
+|**2026-04-14**|**True Alternating Current Scanning Tunneling Microscope (ACSTM): tunneling on insulators**|M. J. Rost et.al.|[2604.06751](http://arxiv.org/abs/2604.06751)|null|
 |**2026-04-07**|**Dynamics of a Spin-Wave Active Ring Resonator Driven by Harmonic-Null Square-Wave and Unipolar 8-bit Walsh Code Modulations**|Anirban Mukhopadhyay et.al.|[2604.04612](http://arxiv.org/abs/2604.04612)|null|
 |**2026-04-03**|**Mott-Derived Local Moments and Kondo Hybridization in a d-electron Kagome lattice**|Xing Zhang et.al.|[2604.02922](http://arxiv.org/abs/2604.02922)|null|
 |**2026-03-28**|**Magnetic-field-tunable commensurate multi-q charge orders on UTe2 (011) surface**|Yuanji Li et.al.|[2603.27211](http://arxiv.org/abs/2603.27211)|null|
@@ -9227,7 +9236,7 @@
 |**2026-03-26**|**Microscopic nature of $4a_0\times4a_0$ plaquettes in stripe LDOS and $2a_0$ shift**|Ying Liang et.al.|[2603.25245](http://arxiv.org/abs/2603.25245)|null|
 |**2026-03-28**|**Enhancing Online Support Group Formation Using Topic Modeling Techniques**|Pronob Kumar Barman et.al.|[2603.24765](http://arxiv.org/abs/2603.24765)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

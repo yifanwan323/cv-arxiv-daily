@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9177,6 +9177,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Tunable bifurcation of magnetic anisotropy and bi-oriented antiferromagnetic order in kagome metal GdTi3Bi4**|Jianfeng Guo et.al.|[2604.14012](http://arxiv.org/abs/2604.14012)|null|
+|**2026-04-15**|**Spin-mediated hysteretic switching of unidirectional charge density waves by rotating magnetic fields**|Zichao Chen et.al.|[2604.14002](http://arxiv.org/abs/2604.14002)|null|
+|**2026-04-15**|**Anomalous Low-temperature Magnetotransport in Kagome Metal CsCr $_3$Sb$_5$ under Pressure**|Zikai Zhou et.al.|[2604.13553](http://arxiv.org/abs/2604.13553)|null|
+|**2026-04-15**|**Cs $_4$Cr$_7$Te$_{10}$ : Interwoven Reconstructed Archimedean and Kagome Lattices with a Possible Phase Transition near 130 K**|Zhen Zhao et.al.|[2604.12680](http://arxiv.org/abs/2604.12680)|null|
+|**2026-04-13**|**Quasi-linear `non-metallic' resistivity in the distorted-kagome metal CrPdAs**|Benny Lau et.al.|[2604.11630](http://arxiv.org/abs/2604.11630)|null|
+|**2026-04-13**|**Unconventional alternating out-of-plane spin polarization in the coplanar kagome antiferromagnet**|Ousmane Ly et.al.|[2604.11057](http://arxiv.org/abs/2604.11057)|null|
 |**2026-04-07**|**Floquet X-Ray Scattering as a Probe of Hidden Electronic Orders**|Martin Eckstein et.al.|[2604.06496](http://arxiv.org/abs/2604.06496)|null|
 |**2026-04-07**|**Visualizing the interplay of dual electronic nematicities in kagome superconductors**|Yunmei Zhang et.al.|[2604.05506](http://arxiv.org/abs/2604.05506)|null|
 |**2026-04-07**|**Cascade of Spin Liquids in a Bilayer Triangular-lattice Antiferromagnet Rb_2Co_2(SeO_3)_3**|Xiaoyu Xu et.al.|[2604.03737](http://arxiv.org/abs/2604.03737)|null|
@@ -9192,10 +9198,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering**|Weikang Zhang et.al.|[2604.12210](http://arxiv.org/abs/2604.12210)|null|
+|**2026-04-12**|**Interplay of disorder and interactions in quantum Hall systems: from fractional quantum Hall liquids to Wigner crystals and amorphous solids**|Ke Huang et.al.|[2604.10642](http://arxiv.org/abs/2604.10642)|null|
+|**2026-04-10**|**Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO $_2$ (110)**|Manoj Dey et.al.|[2604.09291](http://arxiv.org/abs/2604.09291)|null|
 |**2026-04-09**|**Lightweight LLM Agent Memory with Small Language Models**|Jiaquan Zhang et.al.|[2604.07798](http://arxiv.org/abs/2604.07798)|null|
 |**2026-04-08**|**Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM**|Igor Sokolovic et.al.|[2604.07114](http://arxiv.org/abs/2604.07114)|null|
 |**2026-04-08**|**EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling**|Qingguo Meng et.al.|[2604.06782](http://arxiv.org/abs/2604.06782)|null|
-|**2026-04-08**|**True Alternating Current Scanning Tunneling Microscope (ACSTM): tunneling on insulators**|M. J. Rost et.al.|[2604.06751](http://arxiv.org/abs/2604.06751)|null|
+|**2026-04-14**|**True Alternating Current Scanning Tunneling Microscope (ACSTM): tunneling on insulators**|M. J. Rost et.al.|[2604.06751](http://arxiv.org/abs/2604.06751)|null|
 |**2026-04-07**|**Dynamics of a Spin-Wave Active Ring Resonator Driven by Harmonic-Null Square-Wave and Unipolar 8-bit Walsh Code Modulations**|Anirban Mukhopadhyay et.al.|[2604.04612](http://arxiv.org/abs/2604.04612)|null|
 |**2026-04-03**|**Mott-Derived Local Moments and Kondo Hybridization in a d-electron Kagome lattice**|Xing Zhang et.al.|[2604.02922](http://arxiv.org/abs/2604.02922)|null|
 |**2026-03-28**|**Magnetic-field-tunable commensurate multi-q charge orders on UTe2 (011) surface**|Yuanji Li et.al.|[2603.27211](http://arxiv.org/abs/2603.27211)|null|
