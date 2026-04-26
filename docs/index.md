@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9177,7 +9177,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-19**|**Microscopic Theory of Acoustic Phonon Scattering by Charge-Density-Wave Fluctuations**|Han Huang et.al.|[2604.17655](http://arxiv.org/abs/2604.17655)|null|
+|**2026-04-23**|**Intertwined charge density wave, tunable anti-dome superconductivity, and topological states in kagome metal VSn**|Shu-Xiang Qiao et.al.|[2604.21488](http://arxiv.org/abs/2604.21488)|null|
+|**2026-04-22**|**Discovery of parity-violating chiral polar-nematic charge density wave and superconductivity in kagome metals**|Xingwei Shi et.al.|[2604.20546](http://arxiv.org/abs/2604.20546)|null|
+|**2026-04-21**|**Four-layer charge density waves and chirality in CsV $_3$Sb$_5$**|Fernando de Juan et.al.|[2604.19328](http://arxiv.org/abs/2604.19328)|null|
+|**2026-04-21**|**Triple- ${\bf Q}$ collinear state with compensated ferrimagnetic nature on frustrated kagome lattice**|Kazushi Aoyama et.al.|[2604.19156](http://arxiv.org/abs/2604.19156)|null|
+|**2026-04-20**|**Energy landscape of the kagome antiferromagnet: Characterization of multiple energy scales**|Brandon B. Le et.al.|[2604.18902](http://arxiv.org/abs/2604.18902)|null|
+|**2026-04-21**|**Microscopic Theory of Acoustic Phonon Scattering by Charge-Density-Wave Fluctuations**|Han Huang et.al.|[2604.17655](http://arxiv.org/abs/2604.17655)|null|
 |**2026-04-17**|**Antiferromagnetic Dimers in the Parent Phase of a Correlated Kagome Superconductor**|Yifan Wang et.al.|[2604.15935](http://arxiv.org/abs/2604.15935)|null|
 |**2026-04-16**|**Discovery of an odd-parity f-wave charge order in a kagome metal**|Jiangchang Zheng et.al.|[2604.14538](http://arxiv.org/abs/2604.14538)|null|
 |**2026-04-15**|**Tunable bifurcation of magnetic anisotropy and bi-oriented antiferromagnetic order in kagome metal GdTi3Bi4**|Jianfeng Guo et.al.|[2604.14012](http://arxiv.org/abs/2604.14012)|null|
@@ -9201,14 +9206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures**|Ylea Vlamidis et.al.|[2604.21739](http://arxiv.org/abs/2604.21739)|null|
+|**2026-04-21**|**AngstromPro: A versatile software for massive N-dimensional STM data management, visualization and in-depth analysis**|Huiyu Zhao et.al.|[2604.18962](http://arxiv.org/abs/2604.18962)|null|
 |**2026-04-20**|**Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement**|Hongxu Jiang et.al.|[2604.17773](http://arxiv.org/abs/2604.17773)|null|
-|**2026-04-19**|**G-type antiferromagnetic structure in Rb1-xV2Te2O**|Wu Xie et.al.|[2604.17365](http://arxiv.org/abs/2604.17365)|null|
+|**2026-04-22**|**G-type antiferromagnetic structure in Rb1-xV2Te2O**|Wu Xie et.al.|[2604.17365](http://arxiv.org/abs/2604.17365)|null|
 |**2026-04-17**|**Benchmarking Current-to-Voltage Amplifiers for Quantum Transport Measurements**|J. Escorza et.al.|[2604.16269](http://arxiv.org/abs/2604.16269)|null|
 |**2026-04-16**|**Discovery of an odd-parity f-wave charge order in a kagome metal**|Jiangchang Zheng et.al.|[2604.14538](http://arxiv.org/abs/2604.14538)|null|
 |**2026-04-16**|**Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering**|Weikang Zhang et.al.|[2604.12210](http://arxiv.org/abs/2604.12210)|null|
 |**2026-04-12**|**Interplay of disorder and interactions in quantum Hall systems: from fractional quantum Hall liquids to Wigner crystals and amorphous solids**|Ke Huang et.al.|[2604.10642](http://arxiv.org/abs/2604.10642)|null|
 |**2026-04-10**|**Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO $_2$ (110)**|Manoj Dey et.al.|[2604.09291](http://arxiv.org/abs/2604.09291)|null|
-|**2026-04-19**|**Lightweight LLM Agent Memory with Small Language Models**|Jiaquan Zhang et.al.|[2604.07798](http://arxiv.org/abs/2604.07798)|null|
+|**2026-04-22**|**Lightweight LLM Agent Memory with Small Language Models**|Jiaquan Zhang et.al.|[2604.07798](http://arxiv.org/abs/2604.07798)|null|
 |**2026-04-08**|**Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM**|Igor Sokolovic et.al.|[2604.07114](http://arxiv.org/abs/2604.07114)|null|
 |**2026-04-08**|**EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling**|Qingguo Meng et.al.|[2604.06782](http://arxiv.org/abs/2604.06782)|null|
 |**2026-04-14**|**True Alternating Current Scanning Tunneling Microscope (ACSTM): tunneling on insulators**|M. J. Rost et.al.|[2604.06751](http://arxiv.org/abs/2604.06751)|null|
