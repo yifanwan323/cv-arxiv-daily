@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1398,7 +1398,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## SFM
 
@@ -2423,7 +2423,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -5390,7 +5390,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5942,7 +5942,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Image Matching
 
@@ -7321,7 +7321,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## NeRF
 
@@ -9193,12 +9193,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## kagome
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Gapped 1/9 Magnetization Plateau in the Anisotropic Kagome Antiferromagnet Y-kapellasite**|Dipranjan Chatterjee et.al.|[2605.08067](http://arxiv.org/abs/2605.08067)|null|
+|**2026-05-08**|**Anomalous magnetotransport in a non-collinear correlated kagome ferromagnet MgMn6Sn6**|Kakan Deb et.al.|[2605.07904](http://arxiv.org/abs/2605.07904)|null|
+|**2026-05-08**|**Ground states of quantum XY dipoles on the Archimedean lattices**|Marcus Bintz et.al.|[2605.07685](http://arxiv.org/abs/2605.07685)|null|
+|**2026-05-08**|**Noncollinear antiferromagnetic structure and physical properties of CrRhAs with distorted kagome lattice**|Chenglin Shang et.al.|[2605.07540](http://arxiv.org/abs/2605.07540)|null|
+|**2026-05-07**|**Twisted Kagome Bilayers: Higher-Order Magic Angles, Topological Flat Bands, and Sublattice Interference**|David T. S. Perkins et.al.|[2605.06551](http://arxiv.org/abs/2605.06551)|null|
+|**2026-05-07**|**Josephson spectroscopy study of kagome superconductors toward the deep point-contact regime**|Hailang Qin et.al.|[2605.06150](http://arxiv.org/abs/2605.06150)|null|
+|**2026-05-06**|**Microscopic evidence for imaginary charge density wave in a kagome metal**|S. Suetsugu et.al.|[2605.05101](http://arxiv.org/abs/2605.05101)|null|
+|**2026-05-06**|**Finite-size scaling properties of classical random walk on various two-dimensional lattices**|Nimish Sharma et.al.|[2605.04492](http://arxiv.org/abs/2605.04492)|null|
+|**2026-05-05**|**Quantum Spin Liquid State of a Dual-Species Atomic Array on Kagome Lattice**|Ahmed M. Farouk et.al.|[2605.03579](http://arxiv.org/abs/2605.03579)|null|
+|**2026-05-02**|**Collinear ferromagnetism with reduced moment length in kagome magnet Nd3Ru4Al12**|Yuki Ishihara et.al.|[2605.01447](http://arxiv.org/abs/2605.01447)|null|
 |**2026-04-23**|**Intertwined charge density wave, tunable anti-dome superconductivity, and topological states in kagome metal VSn**|Shu-Xiang Qiao et.al.|[2604.21488](http://arxiv.org/abs/2604.21488)|null|
 |**2026-04-22**|**Discovery of parity-violating chiral polar-nematic charge density wave and superconductivity in kagome metals**|Xingwei Shi et.al.|[2604.20546](http://arxiv.org/abs/2604.20546)|null|
 |**2026-04-21**|**Four-layer charge density waves and chirality in CsV $_3$Sb$_5$**|Fernando de Juan et.al.|[2604.19328](http://arxiv.org/abs/2604.19328)|null|
@@ -9224,12 +9234,14 @@
 |**2026-03-30**|**Higgs criticality of Dirac spin liquids on depleted triangular lattices**|Andreas Feuerpfeil et.al.|[2603.28860](http://arxiv.org/abs/2603.28860)|null|
 |**2026-04-05**|**Competing interlayer charge order and quantum monopole reorganization in bilayer Kagome spin ice via quantum annealing**|Kumar Ghosh et.al.|[2603.27826](http://arxiv.org/abs/2603.27826)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## STM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Femtosecond tunneling spectroscopy of ultrafast band bending dynamics at the atomic limit**|Vedran Jelic et.al.|[2604.25146](http://arxiv.org/abs/2604.25146)|null|
+|**2026-04-25**|**Spectro-Temporal Modulation Representation Framework for Human-Imitated Speech Detection**|Khalid Zaman et.al.|[2604.23241](http://arxiv.org/abs/2604.23241)|null|
 |**2026-04-23**|**Nickel intercalation in epitaxial graphene on SiC(0001): a novel platform for engineering two-dimensional heterostructures**|Ylea Vlamidis et.al.|[2604.21739](http://arxiv.org/abs/2604.21739)|null|
 |**2026-04-21**|**AngstromPro: A versatile software for massive N-dimensional STM data management, visualization and in-depth analysis**|Huiyu Zhao et.al.|[2604.18962](http://arxiv.org/abs/2604.18962)|null|
 |**2026-04-20**|**Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement**|Hongxu Jiang et.al.|[2604.17773](http://arxiv.org/abs/2604.17773)|null|
@@ -9237,7 +9249,7 @@
 |**2026-04-17**|**Benchmarking Current-to-Voltage Amplifiers for Quantum Transport Measurements**|J. Escorza et.al.|[2604.16269](http://arxiv.org/abs/2604.16269)|null|
 |**2026-04-16**|**Discovery of an odd-parity f-wave charge order in a kagome metal**|Jiangchang Zheng et.al.|[2604.14538](http://arxiv.org/abs/2604.14538)|null|
 |**2026-04-16**|**Beyond Prompt: Fine-grained Simulation of Cognitively Impaired Standardized Patients via Stochastic Steering**|Weikang Zhang et.al.|[2604.12210](http://arxiv.org/abs/2604.12210)|null|
-|**2026-04-12**|**Interplay of disorder and interactions in quantum Hall systems: from fractional quantum Hall liquids to Wigner crystals and amorphous solids**|Ke Huang et.al.|[2604.10642](http://arxiv.org/abs/2604.10642)|null|
+|**2026-04-27**|**Interplay of disorder and interaction in quantum Hall systems: from fractional quantum Hall liquids to Wigner crystals and amorphous solids**|Ke Huang et.al.|[2604.10642](http://arxiv.org/abs/2604.10642)|null|
 |**2026-04-10**|**Synergistic Interplay between Surface Polarons and Adsorbates for Photocatalytic Nitrogen Reduction on TiO $_2$ (110)**|Manoj Dey et.al.|[2604.09291](http://arxiv.org/abs/2604.09291)|null|
 |**2026-04-22**|**Lightweight LLM Agent Memory with Small Language Models**|Jiaquan Zhang et.al.|[2604.07798](http://arxiv.org/abs/2604.07798)|null|
 |**2026-04-08**|**Photoexcited Hole States at the SrTiO3(001) Surface Imaged with Noncontact AFM**|Igor Sokolovic et.al.|[2604.07114](http://arxiv.org/abs/2604.07114)|null|
@@ -9250,7 +9262,7 @@
 |**2026-03-26**|**Microscopic nature of $4a_0\times4a_0$ plaquettes in stripe LDOS and $2a_0$ shift**|Ying Liang et.al.|[2603.25245](http://arxiv.org/abs/2603.25245)|null|
 |**2026-03-28**|**Enhancing Online Support Group Formation Using Topic Modeling Techniques**|Pronob Kumar Barman et.al.|[2603.24765](http://arxiv.org/abs/2603.24765)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
